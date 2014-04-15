@@ -1,0 +1,11 @@
+**/build
+
+# Intellij generated files
+.idea/
+.gradle
+**/build
+*.iml
+*.iws
+*.ipr
+*.swp
+*~
